@@ -1,2 +1,2 @@
 # UVSN
-Ultrasound Video Segmentation for Angle of Progression Measurements
+Ultrasound Video Segmentation of Pubic Symphysis and Fetal Head for Angle of Progression Measurement
